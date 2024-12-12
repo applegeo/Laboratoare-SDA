@@ -1,0 +1,11 @@
+Rezistenta Materialelor
+calculul reacţiunilor, diagramele de eforturi, calculul caracteristicilor geometrice ale suprafeţelor plane şi calculul elementelor de rezistenţă la solicitări simple
+profesori Profesor2
+
+Algebra Liniara
+operatii cu matrice, determinante si sistemele liniare
+Profesor1 Profesor2
+
+The REssixtance
+calculul reacţiunilor de materie prima
+Profesor1 Profesor2
